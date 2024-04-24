@@ -12,3 +12,4 @@ yo, welcome to my profile, i mainly use python (with chat gpt, i cant code for s
 
 - <p><a href="https://github.com/colebolebole/SiPyWeb">SiPyWeb</a> - Simple optimized python based webserver with css support</p>
 - <p><a href="https://github.com/colebolebole/DownPy">DownPy</a> - Python based super efficient file downloader</p>
+- <p><a href="https://github.com/novusthedev/droplet">Droplet</a> - A free youtube alternative based off of MediaCMS, in collaboration with Novus!</p>
