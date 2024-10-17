@@ -15,5 +15,6 @@ yo, welcome to my profile, i mainly use python (with chat gpt, i cant code for s
 - <p><a href="https://github.com/colebolebole/SiNodeWeb">SiNodeWeb</a> - A rewritten SiPyWeb with more advanced features and a cleaner look!</p>
 - <p><a href="https://github.com/colebolebole/DownPy">DownPy</a> - Python based super efficient file downloader</p>
 - <p><a href="https://github.com/colebolebole/pyweather">PyWeather</a> - Python based weather app that uses the OpenWeather API, one of my most successful projects so far, with 5 contributors! and at its prime, 3 developers!
-- <p><a href="https://github.com/novusthedev/droplet">Droplet</a> - A free youtube alternative based off of MediaCMS, in collaboration with Novus!</p>
-- <p><a href="https://github.com/colebolebole/Nestified">Nestified</a> - A free open source Nest thermostat desktop app!</p>
+- <p><a href="https://github.com/colebolebole/Nestified">Nestified</a> - A free open source Nest desktop app!</p>
+- <p><a href="https://github.com/colebolebole/s-ftp">s-ftp</a> - A free open source super efficent ftp server i built originally for my minecraft server, but decided to share it with the public.</p>
+
