@@ -18,5 +18,5 @@ yo, welcome to my profile, i mainly use python (with chat gpt, i cant code for s
 
 # Some of my favorite projects i have contributed to
 
-- <p><a href="https://github.com/Blade-OS">BladeOS</a> - A free and open source operating system based off of debian 12, made a wallpaper and the logo for it!</p>
+- <p><a href="https://github.com/Blade-OS">BladeOS</a> - A free and open source operating system based off of debian 12, made the wallpaper and logo for it! - also own/bought the domain!</p>
 
