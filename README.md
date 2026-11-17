@@ -1,4 +1,4 @@
-yo, welcome to my profile, i mainly vibecode (because i cant code for shit)
+yo, welcome to my profile, i mainly vibecode (because i cant code for shit & i like to do it for fun)
 
 ---
 
